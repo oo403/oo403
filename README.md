@@ -46,15 +46,9 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/oo403/oo403/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/oo403/oo403/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=oo403&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oo403&theme=merko&hide_border=false&area=true" height="300" alt="activity-graph graph"  />
