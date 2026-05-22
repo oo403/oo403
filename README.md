@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oo403/oo403/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/oo403/oo403/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -51,8 +44,17 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/oo403/oo403/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/oo403/oo403/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/oo403/oo403/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oo403/oo403/pacman-output/breakout-contribution-graph.svg">
+</picture>
 
 ###
